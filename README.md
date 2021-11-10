@@ -1,6 +1,12 @@
-# KuryKafe
+## Printing Instructions
 
-Additional hardware required: 
+Print Magwell with support. All other parts should be printed with no support. 
+
+3+ walls, 5+ top/bottom layers, any infill. 
+
+Collar has built-in brim, 0.2mm thick, to aid print bed adhesion.
+
+## Hardware List
 
 * 016 o-ring for Indra-style clamp
 * 012 o-ring for pusher
